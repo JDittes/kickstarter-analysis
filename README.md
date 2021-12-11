@@ -51,12 +51,10 @@ I ran an IQR analysis to determine the top line of the data set. The first quart
 I also checked the graph I had created to show success ratios by levels of goals. I realized that I would not need to run a new graph, but I would advise the client that results above $35,500 were outliers and not reliable (many of those upper-range results showed successful fundraising campaigns, which might have misled us to push for more without a reliable rationale. Here are the two charts I made: the first with outliers included, the second with outliers removed. 
 
 
-Outcomes Based on Months WITH Outliers
-![First outcomes chart](/kickstarter-analysis/Outcomes_months.png)
+![Outcomes Based on Months WITH Outliers](https://github.com/JDittes/kickstarter-analysis/blob/main/Outcomes_months.png)
 
 
-Outcomes Based on Months WITHOUT Outliers
-(outcomes_without_outliers.png)
+![Outcomes Based on Months WITHOUT Outliers](https://github.com/JDittes/kickstarter-analysis/blob/main/outcomes_without_outliers.png)
 
 
 ## Results

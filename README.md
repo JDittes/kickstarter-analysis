@@ -4,7 +4,7 @@ Helping determine trends for a theater client
 
 
 ## Overview of Project
-Success isn’t always a measure of talent: it also has much to do with timing. This project seeks to find the optimal timing for the talent of Louise to use crowdfunding to produce her project. Kickstarter [recommends a campaign time of 30 days or less] (https://help.kickstarter.com/hc/en-us/articles/115005128434-What-is-the-maximum-project-duration-#:~:text=Projects%20on%20Kickstarter%20can%20last,at%2030%20days%20or%20less.) to reach a funding goal, so timing is very important (no campaigns longer than 60 days are allowed). 
+Success isn’t always a measure of talent: it also has much to do with timing. This project seeks to find the optimal timing for the talent of Louise to use crowdfunding to produce her project. Kickstarter [recommends a campaign time of 30 days or less](https://help.kickstarter.com/hc/en-us/articles/115005128434-What-is-the-maximum-project-duration-#:~:text=Projects%20on%20Kickstarter%20can%20last,at%2030%20days%20or%20less.) to reach a funding goal, so timing is very important (no campaigns longer than 60 days are allowed). 
 
 
 Another important factor in a successful campaign is selecting the right level of funding to seek. No doubt some levels of funding will be easier than others to reach, and I want to help Louise identify a target range of support that is both achievable and will help her produce the play the way she wants.

@@ -19,10 +19,10 @@ We analyzed over 4,000 previous Kickstarter campaigns, dating from 2009 to 2017.
 
 
 ### Analysis of Outcomes Based on Launch Date
-In all months, successful campaigns are more common than failed ones. In fact, in all but three months of the year, August, October, and December, campaigns were 70% more likely to be successful than to fail (/kickstarter-analysis/outcomes_without_outliers.png). 
+In all months, successful campaigns are more common than failed ones. In fact, in all but three months of the year, August, October, and December, campaigns were 70% more likely to be successful than to ![fail](https://github.com/JDittes/kickstarter-analysis/blob/main/outcomes_without_outliers.png). 
 
 
-The best time to launch a theater fundraiser, however, is in the late spring or early summer. During these months, successful campaigns are significantly higher than failed ones. April and May campaigns are more than twice as likely to succeed than fail: ![successes were 113% higher in April and 104% higher in May than failures](https://github.com/JDittes/kickstarter-analysis/blob/main/pct_higher_by_month.png). 
+The best time to launch a theater fundraiser, however, is in the late spring or early summer. During these months, successful campaigns are significantly higher than failed ones. April and May campaigns are more than twice as likely to succeed than fail. 
 
 
 The hardest months to launch occur towards the end of the year. In August successes outstripped failures by only 53%. In October that ratio fell to 30%. And in December successes were only 6% more likely than failing campaigns.

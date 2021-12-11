@@ -52,7 +52,7 @@ I also checked the graph I had created to show success ratios by levels of goals
 
 
 Outcomes Based on Months WITH Outliers
-(Outcomes_months.png)
+![First outcomes chart](/kickstarter-analysis/Outcomes_months.png)
 
 
 Outcomes Based on Months WITHOUT Outliers

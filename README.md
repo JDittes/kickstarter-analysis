@@ -22,7 +22,7 @@ We analyzed over 4,000 previous Kickstarter campaigns, dating from 2009 to 2017.
 In all months, successful campaigns are more common than failed ones. In fact, in all but three months of the year, August, October, and December, campaigns were 70% more likely to be successful than to fail (/kickstarter-analysis/outcomes_without_outliers.png). 
 
 
-The best time to launch a theater fundraiser, however, is in the late spring or early summer. During these months, successful campaigns are significantly higher than failed ones. April and May campaigns are more than twice as likely to succeed than fail: [successes were 113% higher in April and 104% higher in May than failures] (pct_higher_by_month.png). 
+The best time to launch a theater fundraiser, however, is in the late spring or early summer. During these months, successful campaigns are significantly higher than failed ones. April and May campaigns are more than twice as likely to succeed than fail: ![successes were 113% higher in April and 104% higher in May than failures] (https://github.com/JDittes/kickstarter-analysis/blob/main/pct_higher_by_month.png). 
 
 
 The hardest months to launch occur towards the end of the year. In August successes outstripped failures by only 53%. In October that ratio fell to 30%. And in December successes were only 6% more likely than failing campaigns.
@@ -32,14 +32,14 @@ The hardest months to launch occur towards the end of the year. In August succes
 Because I had identified the top line of the Kickstarter data set using IQR, I determined that amounts above $35,000 were outliers, and were not solid bets for Louise to base her campaign goal upon. I focused on the range up to $35,000
 
 
-I found that plays that raised up to $5,000 had significantly higher levels of success than failure. From the range of $5,000 to $15,000 successes were only slightly higher than failures, but the range from $5,000 up to $25,000 had differences of less than 10% [between the two factors] (outcomes_based_on_goal_catgories.png).
+I found that plays that raised up to $5,000 had significantly higher levels of success than failure. From the range of $5,000 to $15,000 successes were only slightly higher than failures, but the range from $5,000 up to $25,000 had differences of less than 10% ![between the two factors](https://github.com/JDittes/kickstarter-analysis/blob/main/outcomes_based_on_goal_catgories.png).
 
 
 Above $25,000, failures outstrip successful campaigns by 20% or more. Above $35,000 the numbers were volatile, with advantage switching back and forth–but because I had already determined these to be outliers, I didn’t put much stock in this part of the graph anyway.
 
 
 ### Challenges and Difficulties Encountered
-The challenge in the data came from the large number of outliers, which I feared might skew the tables I created and cause me to give Louise bad advice about launching her campaign.  When I ran a statistical analysis on the Kickstarter data, I found a mean goal of $71.938.86 with a  median goal of $5,000. This was my first indicator of significant outliers. It also turned out that the range soared from a maximum goal of $100,000,000 to a minimum goal of $1. Even with more than 4,000 data points, this was [cause for concern] (Statistcal_results_kickstarter.png).
+The challenge in the data came from the large number of outliers, which I feared might skew the tables I created and cause me to give Louise bad advice about launching her campaign.  When I ran a statistical analysis on the Kickstarter data, I found a mean goal of $71.938.86 with a  median goal of $5,000. This was my first indicator of significant outliers. It also turned out that the range soared from a maximum goal of $100,000,000 to a minimum goal of $1. Even with more than 4,000 data points, this was ![cause for concern](https://github.com/JDittes/kickstarter-analysis/blob/main/Statistcal_results_kickstarter.png).
 
 
 To further complicate things, the standard deviation of the set of goals was $1,693,312.89, which was many times the average goal of $71,938. This indicated to me that there were outliers in the upper range of values.
@@ -81,4 +81,4 @@ I also checked the graph I had created to show success ratios by levels of goals
 
 - What are some other possible tables and/or graphs that we could create?
 1. I created a 2nd “Outcomes with Goals in the Normal Range” table, which eliminated outliers from the calculations. It didn’t really change the results of the data much, but I’m glad that I compiled the data, just to make sure.
-2. I compared the failed and successful campaigns using percentages in my Outcomes by Month sheet. I went so far as to create a bar chart showing how much higher the percentage of successful than failing campaigns would be. It basically showed the same information as the line chart, but Louise might find it more relatable, so I will include it in my report. After all, there is no such thing as too much information on which to make a [decision] (pct_higher_by_month.png).
+2. I compared the failed and successful campaigns using percentages in my Outcomes by Month sheet. I went so far as to create a bar chart showing how much higher the percentage of successful than failing campaigns would be. It basically showed the same information as the line chart, but Louise might find it more relatable, so I will include it in my report. After all, there is no such thing as too much information on which to make a ![decision] (https://github.com/JDittes/kickstarter-analysis/blob/main/pct_higher_by_month.png).

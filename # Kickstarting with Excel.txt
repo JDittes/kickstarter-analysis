@@ -40,7 +40,7 @@ I also checked the graph I had created to show success ratios by levels of goals
 
 
 Outcomes Based on Months WITH Outliers
-!(Outcomes_months.png)
+!(/LaunchDateOutcmes.png)
 
 
 Outcomes Based on Months WITHOUT Outliers
